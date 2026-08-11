@@ -314,4 +314,4 @@ This supersedes the original "BLAST-window first pass" plan. The executed pipeli
 
 **Tools used in the focused pipeline (add full citations as needed):** HMMER (`hmmscan`/`hmmpress`); TIGRFAM/NCBIfam profiles TIGR04184, TIGR04185; MAFFT L-INS-i; trimAl; FastTree; IQ-TREE 2 with ModelFinder and UFBoot; BLASTP 2.17.0+.
 
-*(Full annotated citations and a glossary are in the standalone literature-review, ESM-methodology, and ConSurf-methodology-review files.)*
+*(Full annotated citations and a glossary are in the standalone literature-review, ESM-methodology, and ConSurf-methodology-review-corrected files.)*
