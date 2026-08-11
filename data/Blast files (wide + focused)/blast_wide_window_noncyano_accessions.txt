@@ -1,0 +1,250 @@
+MDT4953593	Acidobacteriota bacterium
+MFL6334565	Pyrinomonadaceae bacterium
+HEX7318217	Pyrinomonadaceae bacterium
+MDT5063186	Acidobacteriota bacterium
+HVF48478	Pyrinomonadaceae bacterium
+HEX8475271	Pyrinomonadaceae bacterium
+MBA3239759	Acidobacteriota bacterium
+MGB7923059	Pyrinomonadaceae bacterium
+HEX5703699	Pyrinomonadaceae bacterium
+HEV2883702	Pyrinomonadaceae bacterium
+HEX8150633	Pyrinomonadaceae bacterium
+MEW6731466	Acidobacteriota bacterium
+HEY0405269	Pyrinomonadaceae bacterium
+HEU4593931	Pyrinomonadaceae bacterium
+MDX6694854	Blastocatellia bacterium
+MET0649168	Pyrinomonadaceae bacterium
+MDT5271252	Acidobacteriota bacterium
+MGA9770645	Blastocatellia bacterium
+HYO99832	Pyrinomonadaceae bacterium
+HJQ33738	Pyrinomonadaceae bacterium
+HEV2799137	Pyrinomonadaceae bacterium
+HEY0380271	Pyrinomonadaceae bacterium
+HEY0546545	Pyrinomonadaceae bacterium
+HKQ52585	Pyrinomonadaceae bacterium
+HEV7904919	Pyrinomonadaceae bacterium
+HST21639	Blastocatellia bacterium
+PYP86366	Blastocatellia bacterium AA13
+HEU5130644	Pyrinomonadaceae bacterium
+HWS90024	Pyrinomonadaceae bacterium
+MHH9023541	Pyrinomonadaceae bacterium
+HEV2830330	Pyrinomonadaceae bacterium
+MGB9180801	Pyrinomonadaceae bacterium
+HKG61760	Pyrinomonadaceae bacterium
+MFY9620171	Pyrinomonadaceae bacterium
+MBV9211538	Acidobacteriota bacterium
+MDX6270361	Acidobacteriota bacterium
+HYK20311	Pyrinomonadaceae bacterium
+HVG33984	Pyrinomonadaceae bacterium
+HKO96017	Pyrinomonadaceae bacterium
+HEX8129143	Pyrinomonadaceae bacterium
+HJR06138	Pyrinomonadaceae bacterium
+HEX7174815	Pyrinomonadaceae bacterium
+WP_324159341	Paraburkholderia sp.
+MDQ1611323	Pyrinomonadaceae bacterium
+WP_342950899	Paraburkholderia sp. JHI869
+HEV2882321	Pyrinomonadaceae bacterium
+HEX7772049	Pyrinomonadaceae bacterium
+WP_158761794	Paraburkholderia acidiphila
+HYP28510	Blastocatellia bacterium
+HEX5890015	Pyrinomonadaceae bacterium
+MDQ1592456	Pyrinomonadaceae bacterium
+HZG51744	Pyrinomonadaceae bacterium
+WP_266229837	Paraburkholderia sp. CNPSo 3076
+HET8782654	Pyrinomonadaceae bacterium
+HEU4710810	Pyrinomonadaceae bacterium
+WP_208866255	Paraburkholderia lacunae
+HEX8633160	Pyrinomonadaceae bacterium
+HKP80545	Pyrinomonadaceae bacterium
+RDK03125	Paraburkholderia lacunae
+HEX7334808	Pyrinomonadaceae bacterium
+WP_028204601	Paraburkholderia nodosa
+WP_254342687	Paraburkholderia sp. CNPSo 3274
+MCA1564843	Acidobacteriota bacterium
+HYV11082	Pyrinomonadaceae bacterium
+WP_254354855	Paraburkholderia sp. CNPSo 3281
+HEX5876171	Pyrinomonadaceae bacterium
+HKR13630	Pyrinomonadaceae bacterium
+HXS02484	Pyrinomonadaceae bacterium
+HZM99517	Pyrinomonadaceae bacterium
+HZN08736	Pyrinomonadaceae bacterium
+HJT27345	Pyrinomonadaceae bacterium
+MHS8573190	Pyrinomonadaceae bacterium
+WP_233887829	Paraburkholderia flagellata
+HEU4507554	Pyrinomonadaceae bacterium
+HUQ31320	Pyrinomonadaceae bacterium
+HWN11162	Pyrinomonadaceae bacterium
+WP_321963290	Paraburkholderia sp. J7
+HEY0728280	Pyrinomonadaceae bacterium
+PYS44393	Acidobacteriota bacterium
+WP_149676569	Paraburkholderia panacisoli
+HXC68563	Pyrinomonadaceae bacterium
+HET9714048	Pyrinomonadaceae bacterium
+HVF88892	Blastocatellia bacterium
+MIB3130526	Paraburkholderia sp. FW306-2-2C-D06C
+HEX3184813	Pyrinomonadaceae bacterium
+HKT91401	Paraburkholderia sp.
+MHS8947505	Pyrinomonadaceae bacterium
+WP_321937036	Paraburkholderia sp. J8-2
+HEY0097768	Pyrinomonadaceae bacterium
+WP_321924963	Paraburkholderia guartelaensis
+WP_321945076	Paraburkholderia sp. J10-1
+HEX8189961	Pyrinomonadaceae bacterium
+WP_321913348	Paraburkholderia sp. J11-2
+WP_368702744	Paraburkholderia sp. BR10937
+HEV2761376	Pyrinomonadaceae bacterium
+WP_342925433	Paraburkholderia unamae
+HEY9404262	Pyrinomonadaceae bacterium
+HEX9918094	Pyrinomonadaceae bacterium
+HSE19080	Pyrinomonadaceae bacterium
+MEN3330153	Acidobacteriota bacterium
+HXQ72085	Pyrinomonadaceae bacterium
+HZH77523	Archangium sp.
+HEV2860709	Pyrinomonadaceae bacterium
+WP_448087966	Burkholderia sp. MR1-5-21
+WP_407758022	Archangium sp.
+WP_309894203	Archangium sp.
+HEU4834350	Pyrinomonadaceae bacterium
+WP_341318065	Paraburkholderia sp. IMGN_8
+HKV37355	Pyrinomonadaceae bacterium
+HEX8338305	Pyrinomonadaceae bacterium
+HEX8285827	Pyrinomonadaceae bacterium
+WP_375771541	Archangium gephyra
+HEX5603219	Pyrinomonadaceae bacterium
+HEX6046458	Pyrinomonadaceae bacterium
+WP_437990719	Sorangium sp. So ce145
+HEX8500728	Pyrinomonadaceae bacterium
+HKY45801	Pyrinomonadaceae bacterium
+WP_108073499	Vitiosangium sp. GDMCC 1.1324
+WP_395829747	Archangium violaceum
+WP_420927292	Archangium lansingense
+WP_437711090	Sorangium sp. So ce448
+WP_012239784	Sorangium cellulosum
+HTG88379	Pyrinomonadaceae bacterium
+HLM58078	Pyrinomonadaceae bacterium
+HEX6184303	Pyrinomonadaceae bacterium
+HEV7889804	Pyrinomonadaceae bacterium
+HEY0083716	Pyrinomonadaceae bacterium
+WP_267534293	Archangium lansingense
+MBA3240216	Acidobacteriota bacterium
+WP_331099920	Archangium sp.
+MFY9621075	Pyrinomonadaceae bacterium
+MFL6281844	Pyrinomonadaceae bacterium
+WP_437895089	Sorangium sp. So ce124
+WP_002623136	Cystobacter fuscus
+HZI05563	Archangium sp.
+HWS55267	Pyrinomonadaceae bacterium
+WP_437587986	Sorangium sp. So ce1000
+HVF68519	Pyrinomonadaceae bacterium
+WP_095985195	Cystobacter fuscus
+WP_420943290	Archangium gephyra
+WP_395855229	Cystobacter fuscus
+WP_095979897	Melittangium boletus
+WP_329729839	Archangium sp.
+WP_047855962	Archangium gephyra
+WP_002629105	Cystobacter fuscus
+HEX8352421	Pyrinomonadaceae bacterium
+WP_437732181	Sorangium sp. So ce1335
+MET0624076	Pyrinomonadaceae bacterium
+WP_438039416	Sorangium sp. So ce128
+HEX8539640	Cystobacter sp.
+MCA1578360	Acidobacteriota bacterium
+WP_437913032	Sorangium sp. So ce302
+HVF43374	Pyrinomonadaceae bacterium
+WP_437852943	Sorangium sp. So ce363
+WP_071901229	Cystobacter ferrugineus
+MCA1622070	Acidobacteriota bacterium
+WP_073566409	Archangium sp. Cb G35
+WP_376756556	Archangium violaceum
+WP_437741515	Sorangium sp. So ce1504
+WP_437276890	Sorangium sp. So ce375
+WP_043394183	Archangium violaceum
+WP_437525619	Sorangium sp. So ce726
+MET0401500	Cystobacter sp.
+WP_437904428	Sorangium sp. So ce327
+WP_437315286	Sorangium sp. So ce385
+WP_386961532	Archangium violaceum
+WP_437966044	Sorangium sp. So ce260
+WP_437794696	Sorangium sp. So ce693
+WP_437481078	Sorangium sp. So ce1014
+WP_437810186	Sorangium sp. So ce1078
+WP_324962859	Archangium sp.
+WP_272103909	Sorangium atrum
+XXV74133	Sorangium sp. So ce1866
+WP_204221226	Archangium violaceum
+WP_002703881	Microscilla marina
+XXV54889	Sorangium sp. So ce1654
+WP_437545042	Sorangium sp. So ce367
+WP_437333602	Sorangium sp. So ce394
+WP_437951591	Sorangium sp. So ce296
+WP_437325024	Sorangium sp. So ce381
+WP_437575622	Sorangium sp. So ce887
+WP_437974560	Sorangium sp. So ce295
+WP_437981754	Sorangium sp. So ce117
+HYO72782	Archangium sp.
+KYF96173	Sorangium cellulosum
+WP_437754022	Sorangium sp. So ce1389
+WP_437304876	Sorangium sp. So ce388
+HKG12932	Pyrinomonadaceae bacterium
+MDJ0839305	Acidobacteriota bacterium
+WP_395806303	Archangium minus
+WP_437875636	Sorangium sp. So ce513
+WP_437722553	Sorangium sp. So ce861
+WP_438005493	Sorangium sp. So ce321
+WP_395845784	Cystobacter fuscus
+WP_436615573	Sorangium sp. So ce1024
+KYF51059	Sorangium cellulosum
+WP_020740250	Sorangium cellulosum
+WP_407757698	Archangium sp.
+WP_437503287	Sorangium sp. So ce1099
+MGK3968657	Sorangium sp. So ce1667
+WP_438015786	Sorangium sp. So ce315
+WP_437620721	Sorangium sp. So ce1151
+XXY53709	Sorangium sp. So ce269
+WP_437830041	Sorangium sp. So ce1153
+WP_436620701	Sorangium sp. So ce136
+WP_437925752	Sorangium sp. So ce291
+WP_331116472	Archangium sp.
+WP_437997212	Sorangium sp. So ce185
+HTN83553	Sorangium sp.
+WP_437658351	Sorangium sp. So ce1182
+XXV64529	Sorangium sp. So ce1828
+WP_257454694	Archangium lipolyticum
+WP_437936075	Sorangium sp. So ce341
+WP_129353020	Sorangium cellulosum
+XXY15665	Sorangium sp. So ce216
+XXT17615	Sorangium sp. So ce429
+WP_437777417	Sorangium sp. So ce1097
+WP_437286322	Sorangium sp. So ce406
+WP_437568717	Sorangium sp. So ce542
+XYH95980	Sorangium sp. So ce1128
+WP_437632055	Sorangium sp. So ce854
+HEY0169460	Pyrinomonadaceae bacterium
+XXX74935	Sorangium sp. So ce134
+PCH69506	Bacteroidota bacterium
+KYF64831	Sorangium cellulosum
+WP_436600916	Sorangium sp. So ce1036
+MDY7096041	Acidobacteriota bacterium
+WP_433929501	Sorangium cellulosum
+HWP55783	Pyrinomonadaceae bacterium
+WP_061613011	Sorangium
+WP_434043077	Sorangium
+WP_438024310	Sorangium sp. So ce233
+WP_129579279	Sorangium
+WP_437956345	Sorangium sp. So ce119
+KYG10180	Sorangium cellulosum
+MEO1409104	Bacteroidota bacterium
+MEM1321508	Bacteroidota bacterium
+MCW3104375	Bacteroidota bacterium
+MDP1825010	Archangium sp.
+HEY1404625	Pyrinomonadaceae bacterium
+MBL8933586	Archangium sp.
+WP_331112641	Archangium sp.
+MDP3155989	Archangium sp.
+MDP2269437	Archangium sp.
+WP_203407228	Archangium violaceum
+MEO1515207	Bacteroidota bacterium
+MEM9919771	Bacteroidota bacterium
+MBE2248315	Myxococcus sp.
+MEO1629112	Bacteroidota bacterium
+MDJ0839306	Acidobacteriota bacterium
